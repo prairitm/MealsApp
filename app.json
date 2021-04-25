@@ -1,0 +1,12 @@
+{
+  "name": "MealsApp",
+  "displayName": "MealsApp",
+  "expo": {
+    "name": "MealsApp",
+    "slug": "MealsApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
